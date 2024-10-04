@@ -6,9 +6,9 @@ Some utilities for coaching with South Bronx United (SBU)'s Girls Under 11 team.
 
 You'll need to have node installed to run this. `npm run dev` to run locally. 
 
--[ ] Whistle Sound 
+- [ ] Whistle Sound 
 
--[ ] Coin Flip 
+- [ ] Coin Flip 
 
 - [ ] Timer 
 
