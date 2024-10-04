@@ -4,12 +4,14 @@ Forked from mvllow's NextJS PWA template: https://github.com/mvllow/next-pwa-tem
 
 Some utilities for coaching with South Bronx United (SBU)'s Girls Under 11 team. 
 
-1. Whistle Sound 
+You'll need to have node installed to run this. `npm run dev` to run locally. 
 
-2. Coin Flip 
+-[ ] Whistle Sound 
 
-3. Timer 
+-[ ] Coin Flip 
 
-4. Attendance
+- [ ] Timer 
 
-5. Equal playing time and position rotation tracker 
+- [ ] Attendance
+
+- [ ] Equal playing time and position rotation tracker 
