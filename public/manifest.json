@@ -1,7 +1,7 @@
 {
-	"name": "Rice Bowl",
-	"short_name": "Rice Bowl",
-	"description": "Fluffless jasmine rice for those cold winter nights",
+	"name": "SBUtils",
+	"short_name": "SBUtils",
+	"description": "Some utilities for coaching with South Bronx United (SBU)'s Girls Under 11 team.",
 	"icons": [
 		{
 			"src": "/images/icon-192.png",

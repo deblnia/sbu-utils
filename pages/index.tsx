@@ -1,5 +1,6 @@
 import Page from '@/components/page'
 import Section from '@/components/section'
+import WhistleButton from '@/components/whistle_button'
 
 const Index = () => (
 	<Page>
@@ -7,7 +8,7 @@ const Index = () => (
 			<h2 className='text-xl font-semibold text-zinc-800 dark:text-zinc-200'>
 				We grow a lot of rice.
 			</h2>
-
+			<WhistleButton/> 
 			<div className='mt-2'>
 				<p className='text-zinc-600 dark:text-zinc-400'>
 					You love rice, and so does the rest of the world. In the crop year
@@ -28,6 +29,7 @@ const Index = () => (
 						Source
 					</a>
 				</p>
+				
 			</div>
 		</Section>
 	</Page>
